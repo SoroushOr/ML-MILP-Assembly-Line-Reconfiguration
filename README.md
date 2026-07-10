@@ -294,5 +294,3 @@ submitted to IEEM 2026.
 ```text
 [[Repository link]
 ](https://github.com/SoroushOr/ML-MILP-Assembly-Line-Reconfiguration/tree/main)```
-
-جای دقیقش: **آخر Conclusion، قبل از References**.
